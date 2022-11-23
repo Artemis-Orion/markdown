@@ -5,3 +5,7 @@
 ```
 print("Hello World!")
 ```
+
+- [ ] Learn how to GitHub
+- [ ] ???
+- [ ] Profit!
